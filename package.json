@@ -1,7 +1,7 @@
 {
-  "name": "at.ac.fhstp.2dcanvaslinechart",
+  "name": "at.ac.fhstp.canvaslinechart",
   "version": "0.1.0",
-  "displayName": "2D Canvas Line Chart",
+  "displayName": "Canvas Line Chart",
   "description": "",
   "unity": "2021.3",
   "author": {
