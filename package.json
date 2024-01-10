@@ -7,6 +7,9 @@
   "author": {
     "name": "Michael Zauchinger"
   },
+  "dependencies": {
+    "com.unity.ugui": "1.0.0"
+  },
   "samples": [
     {
       "displayName": "2D Line Chart",
