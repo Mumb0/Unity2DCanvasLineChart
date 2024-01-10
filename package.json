@@ -10,11 +10,5 @@
   "dependencies": {
     "com.unity.ugui": "1.0.0"
   },
-  "samples": [
-    {
-      "displayName": "2D Line Chart",
-      "description": "",
-      "path": "Samples~/2DLineChart"
-    }
-  ]
+  "samples": []
 }
