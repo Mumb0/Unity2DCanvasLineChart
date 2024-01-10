@@ -1,0 +1,14 @@
+{
+    "name": "At.Ac.FhStp.2DCanvasLineChart",
+    "rootNamespace": "At.Ac.FhStp.2DCanvasLineChart",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
