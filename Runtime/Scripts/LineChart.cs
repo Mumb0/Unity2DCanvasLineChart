@@ -137,6 +137,9 @@ namespace At.Ac.FhStp.CanvasLineChart {
 			yAxis.SetPosition(0, new Vector3(0, 0));
 			yAxis.SetPosition(1, new Vector3(0, ChartArea.ChartHeight));
 
+			xAxis.enabled = true;
+			yAxis.enabled = true;
+
 		}
 
 		public void SetDataPointsRadius(float radius) {
