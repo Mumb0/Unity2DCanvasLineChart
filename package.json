@@ -1,4 +1,10 @@
 {
   "name": "at.ac.fhstp.2dcanvaslinechart",
-  "version": "0.1.0"
+  "version": "0.1.0",
+  "displayName": "2D Canvas Line Chart",
+  "description": "",
+  "unity": "2021.3",
+  "author": {
+    "name": "Michael Zauchinger"
+  }
 }
